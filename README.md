@@ -1,6 +1,3 @@
-Certainly! I've corrected and formatted the README file based on your input. Here's the revised version:
-
-```markdown
 # Python for Data Analysis Series
 
 Welcome to my Python for Data Analysis series! This repository contains materials and examples covering fundamental concepts in Python relevant to Data Analysis.
